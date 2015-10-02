@@ -1,4 +1,15 @@
-- name: Some product
-  image: some_product.png
-- name: Other product
-  image: other_product.png
+- h2: 'Skateboard'
+  p: "Very cool stuff"
+  image: skater.png
+
+
+
+- h2: 'Peche'
+  name: "Awesome stuff"
+  image: fly.png
+
+
+- h2: 'ski'
+  p: "Unbeliviable stuff"
+  image: fall.png
+
